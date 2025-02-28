@@ -1,1 +1,1 @@
-Der
+Fully Connected Neural Network created 
